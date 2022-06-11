@@ -17,7 +17,7 @@ RUN apt-get update \
   libbz2-dev \
   libreadline-dev \
   libncurses-dev \
-  libboost-all-dev \
+  libboost1.74-all-dev \
   jq \
   mariadb-server \
   p7zip-full \
