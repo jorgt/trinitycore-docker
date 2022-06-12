@@ -12,7 +12,8 @@ RUN apt-get update \
   make \
   gcc \
   g++ \
-  libmariadbclient-dev \
+  libmariadb-dev-compat \
+  libmariadb-dev \
   libssl-dev \
   libbz2-dev \
   libreadline-dev \
